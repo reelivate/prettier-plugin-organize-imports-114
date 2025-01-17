@@ -1,0 +1,6 @@
+*.php
+*.html
+composer.lock
+tests
+vendor
+**/dist
